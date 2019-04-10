@@ -1,0 +1,13 @@
+{
+"companyName": "Trash Panda Development",
+"productName": "Galaxy Shooter",
+"dataUrl": "GalaxyShooter.data.unityweb",
+"asmCodeUrl": "GalaxyShooter.asm.code.unityweb",
+"asmMemoryUrl": "GalaxyShooter.asm.memory.unityweb",
+"asmFrameworkUrl": "GalaxyShooter.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
